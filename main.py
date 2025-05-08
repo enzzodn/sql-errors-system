@@ -165,3 +165,7 @@ def menu():
 # Executa o menu
 if __name__ == "__main__":
     menu()
+
+
+# SCRIPT PARA OCUPAR A PORTA 3306 (APENAS PARA TESTES)
+# python -m http.server 3306
